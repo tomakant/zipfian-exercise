@@ -30,7 +30,12 @@ At the end of this exercise, the following should be true:
 - joblib
 - scikitlearn native support for parallel RandomForest, GridSearch, and cross validation
 
-## Brief demo of Domino, focused on model deployment
+## Brief demo of Domino
+
+- Mental model: projects, runs
+- Workflow benefits: scalability, portability, tracking, sharing
+- Creating web forms: Launchers
+- Creating web services: API Endpoints
 
 # Exercise
 
