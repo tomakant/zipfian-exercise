@@ -23,7 +23,7 @@ At the end of this exercise, the following should be true:
 
 # Lecture
 
-## Ways to use multiple cores for data science work
+## Multi-cores techniques for data science
 
 - map-reduce with mrjob
 - IPython Notebook clusters
